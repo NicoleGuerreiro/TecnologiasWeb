@@ -1,0 +1,23 @@
+.row {
+    background-color: #d1c3e7;
+    padding: 2px;
+    border: 1px solid #af9fc9;
+}
+
+.col {
+    background-color: #B694EB;
+    padding: 2px;
+    border: 1px solid #634691;
+}
+
+.col-8 {
+    background-color: #B694EB;
+    padding: 2px;
+    border: 1px solid #634691;
+}
+
+.col-4 {
+    background-color: #B694EB;
+    padding: 2px;
+    border: 1px solid #634691;
+}
